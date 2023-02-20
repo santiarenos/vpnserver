@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+# wget https://github.com/santiarenos/vpnserver/blob/b7e98b0f07f35173fe53c964f0286a80d3421a41/autosetupvpn
 # Script for automatic setup of an IPsec VPN server on Ubuntu, Debian, CentOS/RHEL,
 # Rocky Linux, AlmaLinux, Oracle Linux, Amazon Linux 2 and Alpine Linux
 #
